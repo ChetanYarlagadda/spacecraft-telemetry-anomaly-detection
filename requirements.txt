@@ -1,0 +1,20 @@
+# PyTorch: install the CUDA build for GPU training, e.g.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+# (the CPU build also works; the 81 small LSTMs then take longer)
+torch>=2.11
+numpy==2.5.3
+pandas==2.3.3
+scipy==1.18.1
+scikit-learn==1.9.1
+stumpy==1.14.1
+numba==0.68.0
+matplotlib==3.11.2
+huggingface_hub==1.33.0
+requests==2.34.2
+mlflow==3.17.0
+pytest==9.1.1
+pyflakes==4.0.3
+jupyter==1.1.1
+nbformat==5.11.1
+nbconvert==7.17.1
+ipykernel==7.4.0
