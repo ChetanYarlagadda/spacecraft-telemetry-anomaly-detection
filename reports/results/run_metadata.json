@@ -1,0 +1,74 @@
+{
+  "created_utc": "2026-10-10T07:27:12+00:00",
+  "quick": false,
+  "data": {
+    "mirror": "appleparan/telemanom",
+    "revision": "2d22e1061be83a88b7b9e48df35163d5147adc9d",
+    "label_rows": 82,
+    "channels": 81,
+    "anomaly_windows": 104,
+    "evaluated_timesteps": 488495
+  },
+  "ndt_config": {
+    "l_s": 250,
+    "batch_size": 70,
+    "window_size": 30,
+    "smoothing_perc": 0.05,
+    "error_buffer": 100,
+    "p": 0.13,
+    "z_min": 2.5,
+    "sd_lim": 12.0,
+    "prune": true,
+    "value_guards": true,
+    "inverse": true
+  },
+  "lstm_config": {
+    "l_s": 100,
+    "n_predictions": 10,
+    "hidden": 32,
+    "layers": 2,
+    "dropout": 0.2,
+    "batch_size": 64,
+    "lr": 0.001,
+    "max_epochs": 20,
+    "patience": 3,
+    "min_delta": 0.0003,
+    "val_frac": 0.2,
+    "seed": 0
+  },
+  "baseline_history": 100,
+  "lstm_params": {
+    "SMAP (25 inputs)": 16330,
+    "MSL (55 inputs)": 20170
+  },
+  "examples": [
+    "P-4",
+    "G-7",
+    "A-1"
+  ],
+  "n_boot": 2000,
+  "n_perm": 1000,
+  "timings_s": {
+    "reference_reproduction_s": 16.3,
+    "lstm_train_predict_s": 1.7,
+    "baselines_s": 11.3,
+    "thresholding_s": 0.8,
+    "permutation_s": 17.8,
+    "pointwise_s": 3.2,
+    "oracle_s": 4.5
+  },
+  "lstm_gpu_s_when_trained": 129.2,
+  "gpu_stages": [
+    "lstm_train_predict_s"
+  ],
+  "total_s": 61.1,
+  "versions": {
+    "python": "3.12.10",
+    "torch": "2.11.0+cu128",
+    "numpy": "2.5.3",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "stumpy": "Please install this project with setup.py"
+  },
+  "device": "NVIDIA GeForce RTX 4050 Laptop GPU"
+}

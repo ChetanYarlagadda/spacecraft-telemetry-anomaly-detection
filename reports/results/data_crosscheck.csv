@@ -1,0 +1,15 @@
+check,spacecraft,expected,observed,match
+labeled_anomalies.csv identical to the original GitHub file,both,True,True,True
+anomaly_sequences,SMAP,69,69,True
+point,SMAP,43,43,True
+contextual,SMAP,26,26,True
+channels,SMAP,55,55,True
+evaluated_values,SMAP,429735,429735,True
+anomaly_sequences,MSL,36,36,True
+point,MSL,19,19,True
+contextual,MSL,17,17,True
+channels,MSL,27,27,True
+evaluated_values,MSL,66709,66709,True
+test array length equals num_values for every label row,both,0 mismatches,0 mismatches,True
+"channel ids listed more than once (finding, not a published number)",both,none,P-2,False
+"channels with data but no label row (finding, not a published number)",both,none,T-10,False

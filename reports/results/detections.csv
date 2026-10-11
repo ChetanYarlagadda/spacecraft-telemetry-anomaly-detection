@@ -1,0 +1,903 @@
+method,chan_id,start,end,true_positive
+LSTM (this project),P-1,4520,4590,True
+LSTM (this project),P-1,5010,5080,False
+LSTM (this project),S-1,5290,5672,True
+LSTM (this project),E-1,1775,1990,False
+LSTM (this project),E-1,5010,5080,True
+LSTM (this project),E-1,5640,5710,True
+LSTM (this project),E-1,5780,5850,True
+LSTM (this project),E-2,5570,5920,True
+LSTM (this project),E-3,5570,5640,True
+LSTM (this project),E-3,5710,5780,True
+LSTM (this project),E-3,5850,5920,True
+LSTM (this project),E-3,6340,6550,True
+LSTM (this project),E-4,5570,5640,True
+LSTM (this project),E-4,5710,5780,True
+LSTM (this project),E-4,7040,7110,True
+LSTM (this project),E-5,5010,5080,False
+LSTM (this project),E-5,5570,5640,True
+LSTM (this project),E-6,5570,5640,True
+LSTM (this project),E-7,5430,5500,True
+LSTM (this project),E-8,5640,5850,True
+LSTM (this project),E-9,5640,5710,True
+LSTM (this project),E-10,1776,1982,False
+LSTM (this project),E-10,5010,5080,True
+LSTM (this project),E-10,5570,5920,True
+LSTM (this project),E-11,1776,1984,False
+LSTM (this project),E-11,5010,5080,True
+LSTM (this project),E-11,5570,5920,True
+LSTM (this project),E-12,1776,1982,False
+LSTM (this project),E-12,5010,5080,True
+LSTM (this project),E-13,5080,5150,False
+LSTM (this project),E-13,6480,6550,True
+LSTM (this project),D-1,1723,2009,False
+LSTM (this project),D-1,5220,5290,True
+LSTM (this project),D-1,5570,5990,True
+LSTM (this project),P-2,5290,5780,True
+LSTM (this project),P-3,5360,5640,True
+LSTM (this project),P-3,5780,5990,True
+LSTM (this project),D-2,4660,5010,True
+LSTM (this project),D-2,8440,8510,True
+LSTM (this project),D-2,8515,8585,True
+LSTM (this project),D-3,5290,5990,True
+LSTM (this project),D-4,5220,5850,True
+LSTM (this project),A-2,4450,4660,True
+LSTM (this project),A-3,1229,1558,False
+LSTM (this project),A-3,4590,4660,True
+LSTM (this project),A-4,4520,4590,True
+LSTM (this project),G-1,4800,4870,True
+LSTM (this project),D-6,1175,1376,False
+LSTM (this project),D-6,4870,4940,True
+LSTM (this project),D-7,5010,5360,True
+LSTM (this project),D-7,5430,5920,True
+LSTM (this project),F-1,7530,7600,False
+LSTM (this project),P-4,931,1180,True
+LSTM (this project),P-4,2171,2350,True
+LSTM (this project),P-4,4800,4870,True
+LSTM (this project),T-1,2560,2630,True
+LSTM (this project),T-1,2700,2770,True
+LSTM (this project),D-9,6410,6830,True
+LSTM (this project),F-2,5640,5710,True
+LSTM (this project),F-2,6760,6830,True
+LSTM (this project),G-4,4660,4730,True
+LSTM (this project),D-11,4240,4660,True
+LSTM (this project),D-12,5360,5710,True
+LSTM (this project),D-12,5920,5990,True
+LSTM (this project),D-12,6270,6550,True
+LSTM (this project),B-1,5010,5430,True
+LSTM (this project),G-6,5640,5710,True
+LSTM (this project),G-7,1128,1443,False
+LSTM (this project),G-7,2700,2770,False
+LSTM (this project),G-7,3610,3820,True
+LSTM (this project),G-7,5010,5150,True
+LSTM (this project),G-7,7530,7740,True
+LSTM (this project),P-7,5010,5220,True
+LSTM (this project),P-7,5360,5430,True
+LSTM (this project),A-5,2700,3050,True
+LSTM (this project),A-6,1824,2032,True
+LSTM (this project),A-7,6200,6690,True
+LSTM (this project),D-13,5080,5500,True
+LSTM (this project),A-8,8160,8230,True
+LSTM (this project),A-8,8295,8365,True
+LSTM (this project),A-9,4590,5290,True
+LSTM (this project),A-9,8230,8300,True
+LSTM (this project),F-3,7040,7740,False
+LSTM (this project),M-6,1816,2039,True
+LSTM (this project),S-2,807,1060,True
+LSTM (this project),P-10,4590,5010,True
+LSTM (this project),T-5,1114,1374,True
+LSTM (this project),F-7,1323,1551,True
+LSTM (this project),F-7,2700,2770,True
+LSTM (this project),M-4,1379,1581,True
+LSTM (this project),C-1,500,743,True
+LSTM (this project),C-2,250,386,True
+LSTM (this project),T-12,512,845,True
+LSTM (this project),F-4,2980,3050,False
+LSTM (this project),F-5,3120,3190,False
+LSTM (this project),F-5,3540,3750,True
+LSTM (this project),D-14,1771,2108,True
+LSTM (this project),P-14,4590,5010,True
+LSTM (this project),T-8,787,1034,True
+LSTM (this project),T-8,1274,1485,True
+LSTM (this project),P-11,1164,1457,True
+LSTM (this project),D-16,732,936,True
+LSTM (this project),M-7,871,1147,True
+LSTM (this project),F-8,1909,2213,True
+LSTM (2018 reference run),P-1,2131,2350,True
+LSTM (2018 reference run),P-1,3190,3260,False
+LSTM (2018 reference run),P-1,4520,4590,True
+LSTM (2018 reference run),S-1,5290,5655,True
+LSTM (2018 reference run),E-1,1752,2000,False
+LSTM (2018 reference run),E-1,5010,5080,True
+LSTM (2018 reference run),E-1,5640,5710,True
+LSTM (2018 reference run),E-1,5780,5850,True
+LSTM (2018 reference run),E-2,5570,5920,True
+LSTM (2018 reference run),E-3,5570,5640,True
+LSTM (2018 reference run),E-4,5570,5974,True
+LSTM (2018 reference run),E-5,5570,5640,True
+LSTM (2018 reference run),E-6,5570,5640,True
+LSTM (2018 reference run),E-7,5430,5500,True
+LSTM (2018 reference run),E-8,5710,5780,True
+LSTM (2018 reference run),E-9,5710,5780,True
+LSTM (2018 reference run),E-10,1749,1998,False
+LSTM (2018 reference run),E-10,5010,5080,True
+LSTM (2018 reference run),E-10,5570,5920,True
+LSTM (2018 reference run),E-11,1719,1999,False
+LSTM (2018 reference run),E-11,5010,5080,True
+LSTM (2018 reference run),E-11,5570,5920,True
+LSTM (2018 reference run),E-12,1776,2007,False
+LSTM (2018 reference run),E-12,5010,5080,True
+LSTM (2018 reference run),E-13,5570,5640,True
+LSTM (2018 reference run),A-1,4730,4800,True
+LSTM (2018 reference run),D-1,5220,5290,True
+LSTM (2018 reference run),D-1,5570,5952,True
+LSTM (2018 reference run),P-2,5290,5741,True
+LSTM (2018 reference run),P-3,5360,5640,True
+LSTM (2018 reference run),P-3,5780,5990,True
+LSTM (2018 reference run),D-2,4660,4730,True
+LSTM (2018 reference run),D-2,8440,8510,True
+LSTM (2018 reference run),D-3,5360,5920,True
+LSTM (2018 reference run),D-4,5290,5780,True
+LSTM (2018 reference run),A-2,1044,1344,False
+LSTM (2018 reference run),A-2,1464,1715,False
+LSTM (2018 reference run),A-2,4450,4660,True
+LSTM (2018 reference run),A-3,4590,4660,True
+LSTM (2018 reference run),A-4,4520,4730,True
+LSTM (2018 reference run),G-1,5990,6060,False
+LSTM (2018 reference run),G-2,4030,4100,True
+LSTM (2018 reference run),D-5,4800,4870,True
+LSTM (2018 reference run),D-6,4870,4940,True
+LSTM (2018 reference run),D-7,5010,5360,True
+LSTM (2018 reference run),D-7,5430,5640,True
+LSTM (2018 reference run),D-7,5710,5780,True
+LSTM (2018 reference run),F-1,7530,7600,False
+LSTM (2018 reference run),P-4,932,1185,True
+LSTM (2018 reference run),P-4,2172,2350,True
+LSTM (2018 reference run),P-4,4800,4870,True
+LSTM (2018 reference run),G-3,4170,4240,True
+LSTM (2018 reference run),T-1,2560,2630,True
+LSTM (2018 reference run),T-1,6620,6690,False
+LSTM (2018 reference run),T-2,6900,6970,True
+LSTM (2018 reference run),D-9,6410,6550,True
+LSTM (2018 reference run),F-2,6760,6830,True
+LSTM (2018 reference run),G-4,4660,4730,True
+LSTM (2018 reference run),T-3,2058,2319,True
+LSTM (2018 reference run),T-3,5220,5290,True
+LSTM (2018 reference run),D-11,4240,4310,True
+LSTM (2018 reference run),D-12,5360,5710,True
+LSTM (2018 reference run),D-12,7320,7390,True
+LSTM (2018 reference run),B-1,5010,5282,True
+LSTM (2018 reference run),G-6,5640,5710,True
+LSTM (2018 reference run),G-7,3610,3820,True
+LSTM (2018 reference run),G-7,5010,5150,True
+LSTM (2018 reference run),G-7,7530,7740,True
+LSTM (2018 reference run),P-7,5010,5220,True
+LSTM (2018 reference run),P-7,5360,5430,True
+LSTM (2018 reference run),R-1,4520,4590,True
+LSTM (2018 reference run),A-5,2700,2840,True
+LSTM (2018 reference run),A-6,1806,2083,True
+LSTM (2018 reference run),A-7,6200,6690,True
+LSTM (2018 reference run),A-7,8300,8370,True
+LSTM (2018 reference run),D-13,5080,5290,True
+LSTM (2018 reference run),A-8,7880,7950,True
+LSTM (2018 reference run),A-8,8020,8230,True
+LSTM (2018 reference run),A-8,8295,8365,True
+LSTM (2018 reference run),M-6,1816,2039,True
+LSTM (2018 reference run),S-2,807,1063,True
+LSTM (2018 reference run),P-10,4590,5010,True
+LSTM (2018 reference run),T-5,1115,1380,True
+LSTM (2018 reference run),F-7,1323,1575,True
+LSTM (2018 reference run),F-7,1968,2205,False
+LSTM (2018 reference run),F-7,2700,2770,True
+LSTM (2018 reference run),M-3,1373,1651,True
+LSTM (2018 reference run),M-4,1316,1594,True
+LSTM (2018 reference run),M-5,1530,1792,True
+LSTM (2018 reference run),P-15,1301,1566,True
+LSTM (2018 reference run),C-1,500,756,True
+LSTM (2018 reference run),C-2,250,444,True
+LSTM (2018 reference run),T-12,617,851,True
+LSTM (2018 reference run),F-4,2700,2770,True
+LSTM (2018 reference run),F-5,3540,3750,True
+LSTM (2018 reference run),D-14,1892,2118,True
+LSTM (2018 reference run),P-14,4590,4877,True
+LSTM (2018 reference run),T-8,787,1035,True
+LSTM (2018 reference run),T-8,1274,1487,True
+LSTM (2018 reference run),P-11,1191,1463,True
+LSTM (2018 reference run),P-11,1751,2009,True
+LSTM (2018 reference run),D-15,1752,2148,True
+LSTM (2018 reference run),D-16,727,956,True
+LSTM (2018 reference run),M-7,862,1155,True
+LSTM (2018 reference run),F-8,1916,2237,True
+Persistence residual,P-1,2122,2350,True
+Persistence residual,S-1,5360,5430,True
+Persistence residual,S-1,5500,5570,True
+Persistence residual,E-4,5570,5640,True
+Persistence residual,E-5,5570,5640,True
+Persistence residual,E-6,5570,5640,True
+Persistence residual,E-7,5430,5500,True
+Persistence residual,E-13,761,1021,False
+Persistence residual,A-1,4730,4800,True
+Persistence residual,P-2,5290,5850,True
+Persistence residual,P-3,5360,5640,True
+Persistence residual,P-3,5780,5850,True
+Persistence residual,A-2,4450,4520,True
+Persistence residual,A-3,4590,4660,True
+Persistence residual,A-4,4520,4660,True
+Persistence residual,G-1,4800,4870,True
+Persistence residual,G-2,4030,4100,True
+Persistence residual,D-5,4800,4870,True
+Persistence residual,D-6,4870,4940,True
+Persistence residual,F-1,1738,1947,False
+Persistence residual,P-4,2168,2420,True
+Persistence residual,P-4,4800,4870,True
+Persistence residual,G-3,4170,4240,True
+Persistence residual,D-8,4380,4450,True
+Persistence residual,F-2,1715,2061,False
+Persistence residual,F-2,6900,6970,True
+Persistence residual,G-4,4660,4730,True
+Persistence residual,T-3,2058,2319,True
+Persistence residual,T-3,5220,5290,True
+Persistence residual,G-7,3680,3750,True
+Persistence residual,G-7,7600,7670,True
+Persistence residual,P-7,5010,5220,True
+Persistence residual,P-7,5360,5430,True
+Persistence residual,R-1,4520,4590,True
+Persistence residual,A-5,2700,2840,True
+Persistence residual,A-6,1806,2078,True
+Persistence residual,A-7,6270,6340,True
+Persistence residual,M-6,1765,1972,True
+Persistence residual,S-2,806,1061,True
+Persistence residual,T-4,1118,1328,True
+Persistence residual,T-5,1113,1376,True
+Persistence residual,F-7,1340,1551,True
+Persistence residual,F-7,1972,2197,False
+Persistence residual,M-4,476,858,False
+Persistence residual,M-4,1447,1657,True
+Persistence residual,C-1,500,740,True
+Persistence residual,C-2,250,490,True
+Persistence residual,F-5,3540,3680,True
+Persistence residual,T-9,836,1079,True
+Persistence residual,T-8,788,1035,True
+Persistence residual,T-8,1274,1485,True
+Persistence residual,P-11,1752,2006,True
+Persistence residual,D-16,717,941,True
+Persistence residual,M-7,856,1153,True
+Rolling z-score,P-1,4590,4660,True
+Rolling z-score,S-1,5290,5360,True
+Rolling z-score,S-1,5430,5640,True
+Rolling z-score,E-1,1977,2202,False
+Rolling z-score,E-1,2350,2420,False
+Rolling z-score,E-1,2910,2980,False
+Rolling z-score,E-1,5780,5850,True
+Rolling z-score,E-1,5920,5990,True
+Rolling z-score,E-1,8090,8160,False
+Rolling z-score,E-2,1980,2203,False
+Rolling z-score,E-2,2350,2420,False
+Rolling z-score,E-2,5780,5850,True
+Rolling z-score,E-2,8090,8160,False
+Rolling z-score,E-3,5500,5710,True
+Rolling z-score,E-4,4380,4450,False
+Rolling z-score,E-4,5780,5850,True
+Rolling z-score,E-4,7880,7950,True
+Rolling z-score,E-5,1977,2202,False
+Rolling z-score,E-5,2350,2420,False
+Rolling z-score,E-5,2910,2980,False
+Rolling z-score,E-5,5710,5780,True
+Rolling z-score,E-5,7810,7880,False
+Rolling z-score,E-6,5570,5640,True
+Rolling z-score,E-7,5430,5500,True
+Rolling z-score,E-8,1988,2196,False
+Rolling z-score,E-8,5010,5080,False
+Rolling z-score,E-8,5780,5920,True
+Rolling z-score,E-8,8090,8160,False
+Rolling z-score,E-9,5570,5640,True
+Rolling z-score,E-9,7880,7950,False
+Rolling z-score,E-10,1977,2202,False
+Rolling z-score,E-10,2350,2420,False
+Rolling z-score,E-10,2910,2980,False
+Rolling z-score,E-10,5780,5850,True
+Rolling z-score,E-11,1977,2202,False
+Rolling z-score,E-11,2350,2420,False
+Rolling z-score,E-11,2910,2980,False
+Rolling z-score,E-11,5780,5850,True
+Rolling z-score,E-12,1976,2202,False
+Rolling z-score,E-12,2350,2420,False
+Rolling z-score,E-12,2910,2980,False
+Rolling z-score,E-12,5780,5850,True
+Rolling z-score,E-12,5920,5990,True
+Rolling z-score,E-12,8020,8090,False
+Rolling z-score,E-13,5640,5710,True
+Rolling z-score,E-13,8440,8510,False
+Rolling z-score,A-1,4730,4800,True
+Rolling z-score,D-1,5570,5640,True
+Rolling z-score,D-1,8090,8160,True
+Rolling z-score,P-2,5290,5360,True
+Rolling z-score,P-3,5360,5430,True
+Rolling z-score,D-2,4660,4730,True
+Rolling z-score,D-2,8440,8510,True
+Rolling z-score,D-3,1741,2023,False
+Rolling z-score,D-3,3260,3330,False
+Rolling z-score,D-3,5290,5360,True
+Rolling z-score,D-4,3190,3330,False
+Rolling z-score,D-4,4730,4800,False
+Rolling z-score,D-4,4870,4940,False
+Rolling z-score,D-4,5220,5290,True
+Rolling z-score,A-2,4450,4520,True
+Rolling z-score,A-2,4590,4660,False
+Rolling z-score,A-3,4730,4800,True
+Rolling z-score,A-4,4660,4730,True
+Rolling z-score,G-1,4870,4940,True
+Rolling z-score,G-2,4030,4100,True
+Rolling z-score,D-5,1871,2141,False
+Rolling z-score,D-5,4800,4870,True
+Rolling z-score,D-6,1934,2207,False
+Rolling z-score,D-6,4870,4940,True
+Rolling z-score,D-7,5010,5080,True
+Rolling z-score,F-1,822,1035,False
+Rolling z-score,F-1,1161,1604,False
+Rolling z-score,F-1,7530,7600,False
+Rolling z-score,P-4,929,1175,True
+Rolling z-score,P-4,2084,2323,True
+Rolling z-score,P-4,4800,4870,True
+Rolling z-score,G-3,4170,4240,True
+Rolling z-score,G-3,7460,7530,False
+Rolling z-score,D-8,4380,4450,True
+Rolling z-score,D-9,6410,6480,True
+Rolling z-score,F-2,5640,5710,True
+Rolling z-score,F-2,6060,6130,True
+Rolling z-score,F-2,6970,7040,True
+Rolling z-score,G-4,4660,4730,True
+Rolling z-score,T-3,2058,2314,True
+Rolling z-score,T-3,5220,5290,True
+Rolling z-score,D-11,2072,2317,False
+Rolling z-score,D-11,4240,4310,True
+Rolling z-score,D-12,5290,5585,True
+Rolling z-score,D-12,5920,5990,True
+Rolling z-score,B-1,5010,5080,True
+Rolling z-score,G-6,1319,1550,False
+Rolling z-score,G-6,1980,2196,False
+Rolling z-score,G-6,2420,2630,False
+Rolling z-score,G-6,5640,5710,True
+Rolling z-score,G-6,8440,8510,False
+Rolling z-score,P-7,871,1121,False
+Rolling z-score,P-7,3050,3120,False
+Rolling z-score,P-7,3190,3260,False
+Rolling z-score,P-7,3610,3680,False
+Rolling z-score,R-1,4520,4590,True
+Rolling z-score,A-5,2700,2770,True
+Rolling z-score,A-6,1798,2091,True
+Rolling z-score,A-7,6270,6340,True
+Rolling z-score,A-7,6410,6480,True
+Rolling z-score,D-13,5080,5150,True
+Rolling z-score,A-8,4450,4520,False
+Rolling z-score,A-8,8160,8230,True
+Rolling z-score,A-9,4520,4590,True
+Rolling z-score,A-9,7530,7600,True
+Rolling z-score,A-9,8160,8230,True
+Rolling z-score,F-3,5570,5640,True
+Rolling z-score,M-6,1761,2020,True
+Rolling z-score,M-1,532,757,False
+Rolling z-score,M-2,500,632,False
+Rolling z-score,M-2,1053,1310,True
+Rolling z-score,S-2,806,1061,True
+Rolling z-score,P-10,4590,4660,True
+Rolling z-score,T-4,621,985,False
+Rolling z-score,T-4,1115,1320,True
+Rolling z-score,T-5,1113,1378,True
+Rolling z-score,F-7,1939,2178,False
+Rolling z-score,M-3,1333,1667,True
+Rolling z-score,M-3,1682,1898,False
+Rolling z-score,M-3,1944,2117,False
+Rolling z-score,M-4,1262,1501,True
+Rolling z-score,M-5,2143,2293,False
+Rolling z-score,P-15,1298,1554,True
+Rolling z-score,T-12,1352,1574,False
+Rolling z-score,T-13,1883,2090,True
+Rolling z-score,F-5,3540,3610,True
+Rolling z-score,D-14,1535,2136,True
+Rolling z-score,T-9,690,914,True
+Rolling z-score,P-14,4590,4660,True
+Rolling z-score,T-8,650,858,False
+Rolling z-score,T-8,1096,1509,True
+Rolling z-score,P-11,1158,1382,True
+Rolling z-score,P-11,2420,2490,False
+Rolling z-score,D-15,696,960,False
+Rolling z-score,D-16,540,861,True
+Rolling z-score,M-7,855,1156,True
+Rolling z-score,F-8,858,1102,False
+Rolling z-score,F-8,1892,2126,True
+Isolation Forest,P-1,2630,2700,False
+Isolation Forest,P-1,6340,6410,False
+Isolation Forest,S-1,1731,1972,False
+Isolation Forest,S-1,3190,3260,False
+Isolation Forest,S-1,5570,5640,True
+Isolation Forest,E-1,1708,2016,False
+Isolation Forest,E-1,2560,2630,False
+Isolation Forest,E-1,2770,2840,False
+Isolation Forest,E-1,5640,5920,True
+Isolation Forest,E-2,5500,5570,False
+Isolation Forest,E-2,5640,5990,True
+Isolation Forest,E-3,3120,3400,False
+Isolation Forest,E-3,5640,6060,True
+Isolation Forest,E-4,3120,3190,False
+Isolation Forest,E-4,7670,7740,True
+Isolation Forest,E-5,1714,2010,False
+Isolation Forest,E-5,2560,2630,False
+Isolation Forest,E-6,6130,6340,False
+Isolation Forest,E-7,1651,1903,False
+Isolation Forest,E-7,4940,5010,False
+Isolation Forest,E-7,5430,5780,True
+Isolation Forest,E-8,1746,1998,False
+Isolation Forest,E-8,2700,2980,False
+Isolation Forest,E-8,4240,4310,False
+Isolation Forest,E-8,5010,5150,False
+Isolation Forest,E-8,5640,5990,True
+Isolation Forest,E-9,4380,4450,False
+Isolation Forest,E-9,5640,6200,True
+Isolation Forest,E-9,6340,6690,False
+Isolation Forest,E-10,1710,2018,False
+Isolation Forest,E-10,2560,2630,False
+Isolation Forest,E-10,2770,2840,False
+Isolation Forest,E-10,5640,5920,True
+Isolation Forest,E-11,1708,2016,False
+Isolation Forest,E-11,2560,2630,False
+Isolation Forest,E-11,2770,2840,False
+Isolation Forest,E-11,5640,5920,True
+Isolation Forest,E-12,1708,2016,False
+Isolation Forest,E-12,2560,2630,False
+Isolation Forest,E-12,2770,2840,False
+Isolation Forest,E-12,6340,6550,False
+Isolation Forest,D-1,1737,2036,False
+Isolation Forest,D-1,5290,5360,True
+Isolation Forest,D-1,5640,5990,True
+Isolation Forest,P-2,5290,5710,True
+Isolation Forest,P-3,5430,5640,True
+Isolation Forest,P-3,5850,5920,True
+Isolation Forest,D-3,2840,2910,False
+Isolation Forest,D-3,3120,3470,False
+Isolation Forest,D-3,4660,5150,False
+Isolation Forest,D-4,4170,4568,False
+Isolation Forest,A-2,1096,1358,False
+Isolation Forest,A-2,4450,4730,True
+Isolation Forest,A-2,7390,7460,False
+Isolation Forest,A-3,1221,1563,False
+Isolation Forest,A-3,4590,4935,True
+Isolation Forest,A-3,7670,8090,False
+Isolation Forest,A-4,1153,1448,False
+Isolation Forest,A-4,4520,4859,True
+Isolation Forest,A-4,7600,7670,False
+Isolation Forest,A-4,7740,7810,False
+Isolation Forest,G-1,3470,3540,False
+Isolation Forest,G-1,3750,3820,False
+Isolation Forest,G-1,4660,4800,True
+Isolation Forest,G-1,4870,4940,True
+Isolation Forest,G-1,5430,5500,False
+Isolation Forest,G-1,5570,5969,False
+Isolation Forest,G-1,5990,6060,False
+Isolation Forest,G-1,6130,6200,False
+Isolation Forest,G-1,6340,6970,False
+Isolation Forest,G-1,7040,7110,False
+Isolation Forest,G-1,7250,7320,False
+Isolation Forest,D-5,4800,4940,True
+Isolation Forest,D-6,4870,5080,True
+Isolation Forest,F-1,1236,1475,False
+Isolation Forest,F-1,1780,2030,False
+Isolation Forest,F-1,3260,3330,False
+Isolation Forest,F-1,7250,7320,False
+Isolation Forest,F-1,7530,7670,False
+Isolation Forest,G-3,4170,4380,True
+Isolation Forest,G-3,7460,7600,False
+Isolation Forest,T-1,2560,2630,True
+Isolation Forest,T-1,3890,4310,True
+Isolation Forest,T-2,8230,8510,True
+Isolation Forest,T-2,8545,8615,True
+Isolation Forest,F-2,1759,2045,False
+Isolation Forest,F-2,3260,3330,False
+Isolation Forest,F-2,5710,5780,True
+Isolation Forest,F-2,6130,6200,True
+Isolation Forest,F-2,8370,8440,True
+Isolation Forest,G-4,1192,1422,False
+Isolation Forest,G-4,1709,1937,False
+Isolation Forest,G-4,2770,2840,False
+Isolation Forest,G-4,6410,6480,False
+Isolation Forest,T-3,1163,1563,False
+Isolation Forest,T-3,2700,2770,False
+Isolation Forest,T-3,3400,3470,False
+Isolation Forest,T-3,3960,4030,False
+Isolation Forest,D-11,4240,4660,True
+Isolation Forest,G-6,1982,2183,False
+Isolation Forest,G-7,1224,1430,False
+Isolation Forest,G-7,2770,2840,False
+Isolation Forest,G-7,3680,3820,True
+Isolation Forest,G-7,7600,7810,True
+Isolation Forest,P-7,1854,2076,False
+Isolation Forest,P-7,2490,2560,False
+Isolation Forest,P-7,4660,4730,False
+Isolation Forest,P-7,5010,5570,True
+Isolation Forest,A-5,2770,3120,True
+Isolation Forest,A-6,1826,2090,True
+Isolation Forest,A-7,1554,1834,False
+Isolation Forest,A-7,2560,2630,False
+Isolation Forest,A-7,8300,8510,True
+Isolation Forest,A-7,8551,8621,True
+Isolation Forest,A-8,3190,3601,False
+Isolation Forest,A-8,3610,4104,False
+Isolation Forest,A-8,4170,4240,False
+Isolation Forest,A-8,4380,4450,False
+Isolation Forest,A-8,6690,6830,True
+Isolation Forest,A-8,6900,6970,True
+Isolation Forest,A-8,7110,7485,True
+Isolation Forest,A-9,3610,3680,False
+Isolation Forest,A-9,3960,4343,False
+Isolation Forest,A-9,7740,8300,True
+Isolation Forest,A-9,8354,8424,True
+Isolation Forest,F-3,2770,3260,False
+Isolation Forest,F-3,5500,5570,False
+Isolation Forest,F-3,5640,5993,True
+Isolation Forest,F-3,7460,7530,False
+Isolation Forest,F-3,7600,8230,False
+Isolation Forest,F-3,8296,8366,False
+Isolation Forest,P-10,2085,2382,False
+Isolation Forest,P-10,3260,3400,False
+Isolation Forest,P-10,4590,5010,True
+Isolation Forest,T-4,2091,2207,False
+Isolation Forest,F-7,1335,1625,True
+Isolation Forest,F-7,2770,2840,True
+Isolation Forest,M-3,1429,1693,True
+Isolation Forest,M-4,1364,1645,True
+Isolation Forest,T-12,500,755,True
+Isolation Forest,T-13,2043,2350,True
+Isolation Forest,F-4,2910,3120,False
+Isolation Forest,F-5,3610,3680,True
+Isolation Forest,P-14,3190,3470,False
+Isolation Forest,T-8,839,1091,True
+Isolation Forest,P-11,1220,1521,True
+Isolation Forest,D-15,1242,1499,False
+Isolation Forest,M-7,910,1215,True
+Isolation Forest,F-8,1971,2280,True
+Matrix profile (raw),P-1,3330,3400,False
+Matrix profile (raw),P-1,5010,5080,False
+Matrix profile (raw),P-1,7250,7320,False
+Matrix profile (raw),P-1,7390,7460,False
+Matrix profile (raw),S-1,5360,5710,True
+Matrix profile (raw),E-1,5010,5150,True
+Matrix profile (raw),E-1,5640,5920,True
+Matrix profile (raw),E-2,2700,2770,False
+Matrix profile (raw),E-2,5010,5150,False
+Matrix profile (raw),E-2,5640,5990,True
+Matrix profile (raw),E-3,3190,3260,False
+Matrix profile (raw),E-3,5570,6084,True
+Matrix profile (raw),E-4,2840,2910,False
+Matrix profile (raw),E-4,5010,5220,False
+Matrix profile (raw),E-4,7390,7460,True
+Matrix profile (raw),E-4,7670,7740,True
+Matrix profile (raw),E-4,7880,7950,True
+Matrix profile (raw),E-5,1706,2016,False
+Matrix profile (raw),E-5,2560,2630,False
+Matrix profile (raw),E-6,750,1060,False
+Matrix profile (raw),E-6,5010,5150,False
+Matrix profile (raw),E-6,5570,5780,True
+Matrix profile (raw),E-7,1680,1960,False
+Matrix profile (raw),E-7,4100,4170,False
+Matrix profile (raw),E-7,4380,4520,False
+Matrix profile (raw),E-7,4870,5010,False
+Matrix profile (raw),E-7,5430,5780,True
+Matrix profile (raw),E-8,1700,2012,False
+Matrix profile (raw),E-8,2700,2910,False
+Matrix profile (raw),E-8,5640,5990,True
+Matrix profile (raw),E-9,1320,1538,False
+Matrix profile (raw),E-9,1703,1956,False
+Matrix profile (raw),E-9,2169,2350,False
+Matrix profile (raw),E-9,2770,2910,False
+Matrix profile (raw),E-9,5780,5850,True
+Matrix profile (raw),E-9,5920,5990,False
+Matrix profile (raw),E-10,5010,5150,True
+Matrix profile (raw),E-10,5640,5990,True
+Matrix profile (raw),E-11,5010,5150,True
+Matrix profile (raw),E-11,5640,5990,True
+Matrix profile (raw),E-12,5010,5150,True
+Matrix profile (raw),E-12,6410,6480,False
+Matrix profile (raw),E-13,966,1185,False
+Matrix profile (raw),E-13,3680,3750,False
+Matrix profile (raw),E-13,6550,6620,True
+Matrix profile (raw),A-1,4730,4870,True
+Matrix profile (raw),D-1,1734,2038,False
+Matrix profile (raw),D-1,5290,5360,True
+Matrix profile (raw),D-1,5570,5990,True
+Matrix profile (raw),P-2,2119,2420,False
+Matrix profile (raw),P-2,2840,2910,False
+Matrix profile (raw),P-2,3050,3120,False
+Matrix profile (raw),P-2,5290,5710,True
+Matrix profile (raw),P-3,5430,5640,True
+Matrix profile (raw),P-3,5850,5920,True
+Matrix profile (raw),D-2,4660,5080,True
+Matrix profile (raw),D-3,3260,3470,False
+Matrix profile (raw),D-3,5010,5990,True
+Matrix profile (raw),D-4,4240,4450,False
+Matrix profile (raw),D-4,5220,5920,True
+Matrix profile (raw),A-2,1077,1324,False
+Matrix profile (raw),A-2,4450,4730,True
+Matrix profile (raw),A-3,1269,1597,False
+Matrix profile (raw),A-3,4590,4940,True
+Matrix profile (raw),A-3,7740,8088,False
+Matrix profile (raw),A-4,4520,4800,True
+Matrix profile (raw),A-4,7530,7914,False
+Matrix profile (raw),G-1,2700,3228,False
+Matrix profile (raw),G-1,4800,4940,True
+Matrix profile (raw),G-1,7600,8370,False
+Matrix profile (raw),G-1,8389,8459,False
+Matrix profile (raw),G-2,4030,4170,True
+Matrix profile (raw),D-5,2980,3050,False
+Matrix profile (raw),D-6,3050,3120,False
+Matrix profile (raw),D-6,4870,5080,True
+Matrix profile (raw),D-7,5010,5920,True
+Matrix profile (raw),F-1,1231,1474,False
+Matrix profile (raw),F-1,2770,2840,False
+Matrix profile (raw),F-1,7530,7600,False
+Matrix profile (raw),P-4,976,1249,True
+Matrix profile (raw),P-4,2188,2490,True
+Matrix profile (raw),P-4,4800,4940,True
+Matrix profile (raw),G-3,4170,4380,True
+Matrix profile (raw),G-3,7460,7600,False
+Matrix profile (raw),T-1,1380,1628,False
+Matrix profile (raw),T-1,3890,4310,True
+Matrix profile (raw),T-1,6620,6690,False
+Matrix profile (raw),T-2,2012,2266,False
+Matrix profile (raw),T-2,4310,4380,False
+Matrix profile (raw),T-2,8160,8510,True
+Matrix profile (raw),T-2,8545,8615,True
+Matrix profile (raw),D-8,4380,4520,True
+Matrix profile (raw),D-9,6410,6830,True
+Matrix profile (raw),F-2,1760,2047,False
+Matrix profile (raw),F-2,3260,3330,False
+Matrix profile (raw),F-2,5710,5780,True
+Matrix profile (raw),F-2,6130,6200,True
+Matrix profile (raw),F-2,6830,6900,True
+Matrix profile (raw),G-4,750,984,False
+Matrix profile (raw),G-4,4660,4870,True
+Matrix profile (raw),G-4,7320,7390,False
+Matrix profile (raw),T-3,2087,2390,True
+Matrix profile (raw),T-3,5220,5430,True
+Matrix profile (raw),T-3,8499,8569,False
+Matrix profile (raw),D-11,4310,4380,True
+Matrix profile (raw),D-12,5290,5780,True
+Matrix profile (raw),D-12,5920,6130,True
+Matrix profile (raw),D-12,6340,6410,True
+Matrix profile (raw),B-1,5010,5430,True
+Matrix profile (raw),G-6,2910,2980,False
+Matrix profile (raw),G-6,5080,5150,False
+Matrix profile (raw),G-6,5290,5882,True
+Matrix profile (raw),G-7,3680,3820,True
+Matrix profile (raw),G-7,7600,7810,True
+Matrix profile (raw),P-7,855,1131,False
+Matrix profile (raw),P-7,2420,2490,False
+Matrix profile (raw),P-7,4240,4310,False
+Matrix profile (raw),P-7,5080,5150,True
+Matrix profile (raw),P-7,5430,5500,True
+Matrix profile (raw),R-1,4520,4730,True
+Matrix profile (raw),A-5,2700,3120,True
+Matrix profile (raw),A-6,1843,2139,True
+Matrix profile (raw),A-7,5570,5640,False
+Matrix profile (raw),A-7,6270,6620,True
+Matrix profile (raw),D-13,5080,5500,True
+Matrix profile (raw),A-8,3190,3550,False
+Matrix profile (raw),A-8,3820,3890,False
+Matrix profile (raw),A-8,6690,7530,True
+Matrix profile (raw),A-8,7600,7670,True
+Matrix profile (raw),A-8,7740,7810,True
+Matrix profile (raw),A-8,7880,7950,True
+Matrix profile (raw),A-8,8020,8090,True
+Matrix profile (raw),A-8,8160,8230,True
+Matrix profile (raw),A-8,8295,8365,True
+Matrix profile (raw),A-9,3890,3960,False
+Matrix profile (raw),A-9,4240,4546,False
+Matrix profile (raw),A-9,7810,8300,True
+Matrix profile (raw),A-9,8354,8424,True
+Matrix profile (raw),F-3,5570,5780,True
+Matrix profile (raw),F-3,8296,8366,False
+Matrix profile (raw),M-6,1840,2039,True
+Matrix profile (raw),M-1,500,806,False
+Matrix profile (raw),S-2,843,1131,True
+Matrix profile (raw),P-10,2091,2350,False
+Matrix profile (raw),P-10,3260,3330,False
+Matrix profile (raw),P-10,4590,5010,True
+Matrix profile (raw),T-4,1388,1630,False
+Matrix profile (raw),T-4,2097,2207,False
+Matrix profile (raw),T-5,1146,1445,True
+Matrix profile (raw),F-7,1342,1621,True
+Matrix profile (raw),F-7,2770,2840,True
+Matrix profile (raw),M-4,1333,1589,True
+Matrix profile (raw),M-5,500,696,False
+Matrix profile (raw),C-1,526,848,True
+Matrix profile (raw),C-2,250,493,True
+Matrix profile (raw),T-12,644,907,True
+Matrix profile (raw),T-13,2092,2420,False
+Matrix profile (raw),F-4,2770,2840,True
+Matrix profile (raw),F-4,2980,3050,False
+Matrix profile (raw),F-5,750,969,False
+Matrix profile (raw),F-5,1456,1724,False
+Matrix profile (raw),F-5,3120,3190,False
+Matrix profile (raw),F-5,3540,3820,True
+Matrix profile (raw),D-14,1824,2170,True
+Matrix profile (raw),P-14,839,1159,False
+Matrix profile (raw),P-14,3890,4100,False
+Matrix profile (raw),P-14,4170,4240,False
+Matrix profile (raw),P-14,4590,5010,True
+Matrix profile (raw),P-11,1231,1490,True
+Matrix profile (raw),M-7,911,1216,True
+Matrix profile (raw),F-8,1973,2280,True
+Matrix profile (z-norm),S-1,2770,2840,False
+Matrix profile (z-norm),S-1,5360,5430,True
+Matrix profile (z-norm),E-1,5010,5150,True
+Matrix profile (z-norm),E-1,5640,5710,True
+Matrix profile (z-norm),E-2,835,1043,False
+Matrix profile (z-norm),E-2,2560,2630,False
+Matrix profile (z-norm),E-2,2770,2980,False
+Matrix profile (z-norm),E-2,3190,3260,False
+Matrix profile (z-norm),E-2,5010,5150,False
+Matrix profile (z-norm),E-2,5640,5710,True
+Matrix profile (z-norm),E-3,1768,1996,False
+Matrix profile (z-norm),E-3,2018,2243,False
+Matrix profile (z-norm),E-3,5080,5150,True
+Matrix profile (z-norm),E-3,5640,5780,True
+Matrix profile (z-norm),E-3,6130,6200,True
+Matrix profile (z-norm),E-4,814,1085,False
+Matrix profile (z-norm),E-4,2840,2910,False
+Matrix profile (z-norm),E-4,5010,5150,False
+Matrix profile (z-norm),E-4,8020,8090,True
+Matrix profile (z-norm),E-5,5010,5150,False
+Matrix profile (z-norm),E-5,5640,5710,True
+Matrix profile (z-norm),E-6,1133,1352,False
+Matrix profile (z-norm),E-6,1729,1980,False
+Matrix profile (z-norm),E-6,4310,4380,False
+Matrix profile (z-norm),E-6,5010,5150,False
+Matrix profile (z-norm),E-6,5640,5710,True
+Matrix profile (z-norm),E-7,4170,4240,False
+Matrix profile (z-norm),E-7,5780,5850,False
+Matrix profile (z-norm),E-7,7880,7950,False
+Matrix profile (z-norm),E-8,2560,2630,False
+Matrix profile (z-norm),E-8,2770,2980,False
+Matrix profile (z-norm),E-8,3190,3260,False
+Matrix profile (z-norm),E-8,5010,5150,False
+Matrix profile (z-norm),E-8,5640,5990,True
+Matrix profile (z-norm),E-9,2770,2980,False
+Matrix profile (z-norm),E-9,3190,3260,False
+Matrix profile (z-norm),E-9,5570,5710,True
+Matrix profile (z-norm),E-9,6270,6340,False
+Matrix profile (z-norm),E-10,5010,5150,True
+Matrix profile (z-norm),E-10,5640,5990,True
+Matrix profile (z-norm),E-11,5010,5150,True
+Matrix profile (z-norm),E-11,5640,5710,True
+Matrix profile (z-norm),E-11,5780,5850,True
+Matrix profile (z-norm),E-12,5010,5150,True
+Matrix profile (z-norm),E-12,5640,5710,True
+Matrix profile (z-norm),E-13,968,1184,False
+Matrix profile (z-norm),E-13,2700,2770,False
+Matrix profile (z-norm),E-13,3680,3750,False
+Matrix profile (z-norm),A-1,4730,4870,True
+Matrix profile (z-norm),D-1,1698,1996,False
+Matrix profile (z-norm),D-1,2560,2840,False
+Matrix profile (z-norm),D-1,7810,7880,True
+Matrix profile (z-norm),P-2,5500,5710,True
+Matrix profile (z-norm),P-3,1198,1420,False
+Matrix profile (z-norm),P-3,3400,3470,False
+Matrix profile (z-norm),P-3,5360,5710,True
+Matrix profile (z-norm),P-3,5850,5920,True
+Matrix profile (z-norm),D-2,4660,4870,True
+Matrix profile (z-norm),D-2,8440,8510,True
+Matrix profile (z-norm),D-2,8515,8585,True
+Matrix profile (z-norm),D-3,1797,2047,False
+Matrix profile (z-norm),D-3,4730,4800,False
+Matrix profile (z-norm),D-3,5290,5360,True
+Matrix profile (z-norm),D-4,982,1269,False
+Matrix profile (z-norm),D-4,3190,3400,False
+Matrix profile (z-norm),D-4,4730,4870,False
+Matrix profile (z-norm),D-4,5290,5584,True
+Matrix profile (z-norm),A-2,4170,4240,False
+Matrix profile (z-norm),A-2,4450,4730,True
+Matrix profile (z-norm),A-2,7250,7530,False
+Matrix profile (z-norm),A-3,3190,3260,False
+Matrix profile (z-norm),A-3,4590,4940,True
+Matrix profile (z-norm),A-4,1878,2303,False
+Matrix profile (z-norm),A-4,4520,4800,True
+Matrix profile (z-norm),G-1,1665,1899,False
+Matrix profile (z-norm),G-1,2840,2910,False
+Matrix profile (z-norm),G-1,4800,5010,True
+Matrix profile (z-norm),G-2,4030,4170,True
+Matrix profile (z-norm),D-5,961,1199,False
+Matrix profile (z-norm),D-5,2840,2910,False
+Matrix profile (z-norm),D-5,4800,4940,True
+Matrix profile (z-norm),D-5,7390,7460,False
+Matrix profile (z-norm),D-6,1076,1378,False
+Matrix profile (z-norm),D-6,3400,3610,False
+Matrix profile (z-norm),D-6,4940,5010,True
+Matrix profile (z-norm),D-7,5010,5220,True
+Matrix profile (z-norm),D-7,5500,5570,True
+Matrix profile (z-norm),P-4,996,1240,True
+Matrix profile (z-norm),P-4,2151,2490,True
+Matrix profile (z-norm),P-4,4800,4940,True
+Matrix profile (z-norm),G-3,4170,4380,True
+Matrix profile (z-norm),G-3,7460,7600,False
+Matrix profile (z-norm),T-1,2490,2630,True
+Matrix profile (z-norm),T-1,6550,6760,True
+Matrix profile (z-norm),T-2,2005,2271,False
+Matrix profile (z-norm),T-2,6760,7042,True
+Matrix profile (z-norm),D-8,4380,4520,True
+Matrix profile (z-norm),D-9,6410,6690,True
+Matrix profile (z-norm),F-2,3260,3330,False
+Matrix profile (z-norm),F-2,4240,4310,False
+Matrix profile (z-norm),F-2,4730,4800,False
+Matrix profile (z-norm),F-2,7320,7390,True
+Matrix profile (z-norm),G-4,750,987,False
+Matrix profile (z-norm),G-4,4660,4870,True
+Matrix profile (z-norm),T-3,2087,2390,True
+Matrix profile (z-norm),T-3,5220,5430,True
+Matrix profile (z-norm),T-3,8499,8569,False
+Matrix profile (z-norm),D-11,6200,6270,False
+Matrix profile (z-norm),D-12,5290,5710,True
+Matrix profile (z-norm),B-1,5010,5309,True
+Matrix profile (z-norm),G-6,2490,2560,False
+Matrix profile (z-norm),G-6,5640,5780,True
+Matrix profile (z-norm),G-7,1159,1460,False
+Matrix profile (z-norm),G-7,2770,2840,False
+Matrix profile (z-norm),G-7,3680,3890,True
+Matrix profile (z-norm),G-7,7600,7810,True
+Matrix profile (z-norm),P-7,858,1130,False
+Matrix profile (z-norm),P-7,5080,5150,True
+Matrix profile (z-norm),P-7,5430,5500,True
+Matrix profile (z-norm),P-7,6410,6480,True
+Matrix profile (z-norm),R-1,4520,4730,True
+Matrix profile (z-norm),A-5,1823,2097,False
+Matrix profile (z-norm),A-5,3400,3470,False
+Matrix profile (z-norm),A-6,1874,2232,True
+Matrix profile (z-norm),A-6,2980,3050,False
+Matrix profile (z-norm),A-7,1061,1274,False
+Matrix profile (z-norm),A-7,1316,1559,False
+Matrix profile (z-norm),A-7,5640,5710,False
+Matrix profile (z-norm),A-7,6270,6620,True
+Matrix profile (z-norm),D-13,5080,5360,True
+Matrix profile (z-norm),A-8,5150,5220,True
+Matrix profile (z-norm),A-8,5360,5430,True
+Matrix profile (z-norm),A-8,5500,5640,True
+Matrix profile (z-norm),A-9,5990,6060,True
+Matrix profile (z-norm),F-3,1701,1981,False
+Matrix profile (z-norm),F-3,5570,5780,True
+Matrix profile (z-norm),M-1,518,738,False
+Matrix profile (z-norm),M-1,1183,1444,True
+Matrix profile (z-norm),S-2,843,1131,True
+Matrix profile (z-norm),P-10,1399,1666,False
+Matrix profile (z-norm),P-10,2239,2420,False
+Matrix profile (z-norm),P-10,3890,3960,False
+Matrix profile (z-norm),T-4,1389,1630,False
+Matrix profile (z-norm),T-4,2091,2207,False
+Matrix profile (z-norm),T-5,1145,1446,True
+Matrix profile (z-norm),F-7,1344,1610,True
+Matrix profile (z-norm),M-3,1623,1863,False
+Matrix profile (z-norm),M-4,458,689,False
+Matrix profile (z-norm),M-4,1571,1794,False
+Matrix profile (z-norm),M-5,1310,1536,True
+Matrix profile (z-norm),C-1,2109,2254,True
+Matrix profile (z-norm),T-12,633,935,True
+Matrix profile (z-norm),T-13,618,917,True
+Matrix profile (z-norm),F-4,881,1116,False
+Matrix profile (z-norm),F-4,1412,1643,False
+Matrix profile (z-norm),F-4,2420,2490,False
+Matrix profile (z-norm),F-5,1632,1853,False
+Matrix profile (z-norm),D-14,1621,2191,True
+Matrix profile (z-norm),P-14,1395,1625,False
+Matrix profile (z-norm),P-11,1795,2066,True
+Matrix profile (z-norm),M-7,895,1212,True
+Random scores,P-1,1301,1545,False
+Random scores,S-1,2980,3050,False
+Random scores,E-12,1014,1233,False
+Random scores,E-12,1959,2185,False
+Random scores,D-2,8160,8230,True
+Random scores,F-1,8370,8440,False
+Random scores,B-1,5710,5780,False
+Random scores,D-13,1011,1261,False
+Random scores,M-1,520,782,False
+Random scores,M-1,1601,1815,True
+Random scores,M-4,1666,1896,False
+Random scores,C-2,250,353,True
+Random scores,T-13,951,1175,False
+Random scores,T-13,1655,1878,False

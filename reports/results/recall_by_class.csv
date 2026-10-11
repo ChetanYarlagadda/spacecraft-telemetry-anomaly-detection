@@ -1,0 +1,49 @@
+method,spacecraft,class,found,labelled,recall
+LSTM (this project),MSL,contextual,8,17,0.47058823529411764
+LSTM (this project),MSL,point,11,19,0.5789473684210527
+LSTM (this project),SMAP,contextual,19,26,0.7307692307692307
+LSTM (this project),SMAP,point,32,42,0.7619047619047619
+LSTM (this project),Total,contextual,27,43,0.627906976744186
+LSTM (this project),Total,point,43,61,0.7049180327868853
+LSTM (2018 reference run),MSL,contextual,10,17,0.5882352941176471
+LSTM (2018 reference run),MSL,point,15,19,0.7894736842105263
+LSTM (2018 reference run),SMAP,contextual,18,26,0.6923076923076923
+LSTM (2018 reference run),SMAP,point,40,42,0.9523809523809523
+LSTM (2018 reference run),Total,contextual,28,43,0.6511627906976745
+LSTM (2018 reference run),Total,point,55,61,0.9016393442622951
+Persistence residual,MSL,contextual,5,17,0.29411764705882354
+Persistence residual,MSL,point,10,19,0.5263157894736842
+Persistence residual,SMAP,contextual,9,26,0.34615384615384615
+Persistence residual,SMAP,point,22,42,0.5238095238095238
+Persistence residual,Total,contextual,14,43,0.32558139534883723
+Persistence residual,Total,point,32,61,0.5245901639344263
+Rolling z-score,MSL,contextual,7,17,0.4117647058823529
+Rolling z-score,MSL,point,14,19,0.7368421052631579
+Rolling z-score,SMAP,contextual,14,26,0.5384615384615384
+Rolling z-score,SMAP,point,38,42,0.9047619047619048
+Rolling z-score,Total,contextual,21,43,0.4883720930232558
+Rolling z-score,Total,point,52,61,0.8524590163934426
+Isolation Forest,MSL,contextual,8,17,0.47058823529411764
+Isolation Forest,MSL,point,4,19,0.21052631578947367
+Isolation Forest,SMAP,contextual,14,26,0.5384615384615384
+Isolation Forest,SMAP,point,19,42,0.4523809523809524
+Isolation Forest,Total,contextual,22,43,0.5116279069767442
+Isolation Forest,Total,point,23,61,0.3770491803278688
+Matrix profile (raw),MSL,contextual,5,17,0.29411764705882354
+Matrix profile (raw),MSL,point,12,19,0.631578947368421
+Matrix profile (raw),SMAP,contextual,19,26,0.7307692307692307
+Matrix profile (raw),SMAP,point,38,42,0.9047619047619048
+Matrix profile (raw),Total,contextual,24,43,0.5581395348837209
+Matrix profile (raw),Total,point,50,61,0.819672131147541
+Matrix profile (z-norm),MSL,contextual,6,17,0.35294117647058826
+Matrix profile (z-norm),MSL,point,6,19,0.3157894736842105
+Matrix profile (z-norm),SMAP,contextual,20,26,0.7692307692307693
+Matrix profile (z-norm),SMAP,point,37,42,0.8809523809523809
+Matrix profile (z-norm),Total,contextual,26,43,0.6046511627906976
+Matrix profile (z-norm),Total,point,43,61,0.7049180327868853
+Random scores,MSL,contextual,1,17,0.058823529411764705
+Random scores,MSL,point,1,19,0.05263157894736842
+Random scores,SMAP,contextual,0,26,0.0
+Random scores,SMAP,point,1,42,0.023809523809523808
+Random scores,Total,contextual,1,43,0.023255813953488372
+Random scores,Total,point,2,61,0.03278688524590164

@@ -1,0 +1,649 @@
+chan_id,spacecraft,tp,fp,fn,n_detected,n_labelled,method
+P-1,SMAP,1,1,2,2,3,LSTM (this project)
+S-1,SMAP,1,0,0,1,1,LSTM (this project)
+E-1,SMAP,2,1,0,4,2,LSTM (this project)
+E-2,SMAP,1,0,0,1,1,LSTM (this project)
+E-3,SMAP,1,0,0,4,1,LSTM (this project)
+E-4,SMAP,1,0,0,3,1,LSTM (this project)
+E-5,SMAP,1,1,0,2,1,LSTM (this project)
+E-6,SMAP,1,0,0,1,1,LSTM (this project)
+E-7,SMAP,1,0,0,1,1,LSTM (this project)
+E-8,SMAP,1,0,0,1,1,LSTM (this project)
+E-9,SMAP,1,0,0,1,1,LSTM (this project)
+E-10,SMAP,2,1,0,3,2,LSTM (this project)
+E-11,SMAP,2,1,0,3,2,LSTM (this project)
+E-12,SMAP,1,1,1,2,2,LSTM (this project)
+E-13,SMAP,1,1,2,2,3,LSTM (this project)
+A-1,SMAP,0,0,1,0,1,LSTM (this project)
+D-1,SMAP,1,1,0,3,1,LSTM (this project)
+P-2,SMAP,1,0,0,1,1,LSTM (this project)
+P-3,SMAP,1,0,0,2,1,LSTM (this project)
+D-2,SMAP,1,0,0,3,1,LSTM (this project)
+D-3,SMAP,1,0,0,1,1,LSTM (this project)
+D-4,SMAP,1,0,0,1,1,LSTM (this project)
+A-2,SMAP,1,0,0,1,1,LSTM (this project)
+A-3,SMAP,1,1,0,2,1,LSTM (this project)
+A-4,SMAP,1,0,0,1,1,LSTM (this project)
+G-1,SMAP,1,0,0,1,1,LSTM (this project)
+G-2,SMAP,0,0,1,0,1,LSTM (this project)
+D-5,SMAP,0,0,1,0,1,LSTM (this project)
+D-6,SMAP,1,1,0,2,1,LSTM (this project)
+D-7,SMAP,1,0,0,2,1,LSTM (this project)
+F-1,SMAP,0,1,1,1,1,LSTM (this project)
+P-4,SMAP,3,0,0,3,3,LSTM (this project)
+G-3,SMAP,0,0,1,0,1,LSTM (this project)
+T-1,SMAP,1,0,1,2,2,LSTM (this project)
+T-2,SMAP,0,0,1,0,1,LSTM (this project)
+D-8,SMAP,0,0,1,0,1,LSTM (this project)
+D-9,SMAP,1,0,0,1,1,LSTM (this project)
+F-2,SMAP,1,0,0,2,1,LSTM (this project)
+G-4,SMAP,1,0,0,1,1,LSTM (this project)
+T-3,SMAP,0,0,2,0,2,LSTM (this project)
+D-11,SMAP,1,0,0,1,1,LSTM (this project)
+D-12,SMAP,1,0,0,3,1,LSTM (this project)
+B-1,SMAP,1,0,0,1,1,LSTM (this project)
+G-6,SMAP,1,0,0,1,1,LSTM (this project)
+G-7,SMAP,3,2,0,5,3,LSTM (this project)
+P-7,SMAP,1,0,0,2,1,LSTM (this project)
+R-1,SMAP,0,0,1,0,1,LSTM (this project)
+A-5,SMAP,1,0,0,1,1,LSTM (this project)
+A-6,SMAP,1,0,0,1,1,LSTM (this project)
+A-7,SMAP,1,0,0,1,1,LSTM (this project)
+D-13,SMAP,1,0,0,1,1,LSTM (this project)
+A-8,SMAP,1,0,0,2,1,LSTM (this project)
+A-9,SMAP,1,0,0,2,1,LSTM (this project)
+F-3,SMAP,0,1,1,1,1,LSTM (this project)
+M-6,MSL,1,0,0,1,1,LSTM (this project)
+M-1,MSL,0,0,1,0,1,LSTM (this project)
+M-2,MSL,0,0,1,0,1,LSTM (this project)
+S-2,MSL,1,0,0,1,1,LSTM (this project)
+P-10,MSL,1,0,0,1,1,LSTM (this project)
+T-4,MSL,0,0,1,0,1,LSTM (this project)
+T-5,MSL,1,0,0,1,1,LSTM (this project)
+F-7,MSL,2,0,1,2,3,LSTM (this project)
+M-3,MSL,0,0,1,0,1,LSTM (this project)
+M-4,MSL,1,0,0,1,1,LSTM (this project)
+M-5,MSL,0,0,1,0,1,LSTM (this project)
+P-15,MSL,0,0,1,0,1,LSTM (this project)
+C-1,MSL,1,0,1,1,2,LSTM (this project)
+C-2,MSL,1,0,1,1,2,LSTM (this project)
+T-12,MSL,1,0,0,1,1,LSTM (this project)
+T-13,MSL,0,0,2,0,2,LSTM (this project)
+F-4,MSL,0,1,1,1,1,LSTM (this project)
+F-5,MSL,1,1,0,2,1,LSTM (this project)
+D-14,MSL,1,0,1,1,2,LSTM (this project)
+T-9,MSL,0,0,2,0,2,LSTM (this project)
+P-14,MSL,1,0,0,1,1,LSTM (this project)
+T-8,MSL,2,0,0,2,2,LSTM (this project)
+P-11,MSL,1,0,1,1,2,LSTM (this project)
+D-15,MSL,0,0,1,0,1,LSTM (this project)
+D-16,MSL,1,0,0,1,1,LSTM (this project)
+M-7,MSL,1,0,0,1,1,LSTM (this project)
+F-8,MSL,1,0,0,1,1,LSTM (this project)
+P-1,SMAP,2,1,1,3,3,LSTM (2018 reference run)
+S-1,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-1,SMAP,2,1,0,4,2,LSTM (2018 reference run)
+E-2,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-3,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-4,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-5,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-6,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-7,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-8,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-9,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+E-10,SMAP,2,1,0,3,2,LSTM (2018 reference run)
+E-11,SMAP,2,1,0,3,2,LSTM (2018 reference run)
+E-12,SMAP,1,1,1,2,2,LSTM (2018 reference run)
+E-13,SMAP,1,0,2,1,3,LSTM (2018 reference run)
+A-1,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+D-1,SMAP,1,0,0,2,1,LSTM (2018 reference run)
+P-2,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+P-3,SMAP,1,0,0,2,1,LSTM (2018 reference run)
+D-2,SMAP,1,0,0,2,1,LSTM (2018 reference run)
+D-3,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+D-4,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+A-2,SMAP,1,2,0,3,1,LSTM (2018 reference run)
+A-3,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+A-4,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+G-1,SMAP,0,1,1,1,1,LSTM (2018 reference run)
+G-2,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+D-5,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+D-6,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+D-7,SMAP,1,0,0,3,1,LSTM (2018 reference run)
+F-1,SMAP,0,1,1,1,1,LSTM (2018 reference run)
+P-4,SMAP,3,0,0,3,3,LSTM (2018 reference run)
+G-3,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+T-1,SMAP,1,1,1,2,2,LSTM (2018 reference run)
+T-2,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+D-8,SMAP,0,0,1,0,1,LSTM (2018 reference run)
+D-9,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+F-2,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+G-4,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+T-3,SMAP,2,0,0,2,2,LSTM (2018 reference run)
+D-11,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+D-12,SMAP,1,0,0,2,1,LSTM (2018 reference run)
+B-1,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+G-6,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+G-7,SMAP,3,0,0,3,3,LSTM (2018 reference run)
+P-7,SMAP,1,0,0,2,1,LSTM (2018 reference run)
+R-1,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+A-5,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+A-6,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+A-7,SMAP,1,0,0,2,1,LSTM (2018 reference run)
+D-13,SMAP,1,0,0,1,1,LSTM (2018 reference run)
+A-8,SMAP,1,0,0,3,1,LSTM (2018 reference run)
+A-9,SMAP,0,0,1,0,1,LSTM (2018 reference run)
+F-3,SMAP,0,0,1,0,1,LSTM (2018 reference run)
+M-6,MSL,1,0,0,1,1,LSTM (2018 reference run)
+M-1,MSL,0,0,1,0,1,LSTM (2018 reference run)
+M-2,MSL,0,0,1,0,1,LSTM (2018 reference run)
+S-2,MSL,1,0,0,1,1,LSTM (2018 reference run)
+P-10,MSL,1,0,0,1,1,LSTM (2018 reference run)
+T-4,MSL,0,0,1,0,1,LSTM (2018 reference run)
+T-5,MSL,1,0,0,1,1,LSTM (2018 reference run)
+F-7,MSL,2,1,1,3,3,LSTM (2018 reference run)
+M-3,MSL,1,0,0,1,1,LSTM (2018 reference run)
+M-4,MSL,1,0,0,1,1,LSTM (2018 reference run)
+M-5,MSL,1,0,0,1,1,LSTM (2018 reference run)
+P-15,MSL,1,0,0,1,1,LSTM (2018 reference run)
+C-1,MSL,1,0,1,1,2,LSTM (2018 reference run)
+C-2,MSL,1,0,1,1,2,LSTM (2018 reference run)
+T-12,MSL,1,0,0,1,1,LSTM (2018 reference run)
+T-13,MSL,0,0,2,0,2,LSTM (2018 reference run)
+F-4,MSL,1,0,0,1,1,LSTM (2018 reference run)
+F-5,MSL,1,0,0,1,1,LSTM (2018 reference run)
+D-14,MSL,1,0,1,1,2,LSTM (2018 reference run)
+T-9,MSL,0,0,2,0,2,LSTM (2018 reference run)
+P-14,MSL,1,0,0,1,1,LSTM (2018 reference run)
+T-8,MSL,2,0,0,2,2,LSTM (2018 reference run)
+P-11,MSL,2,0,0,2,2,LSTM (2018 reference run)
+D-15,MSL,1,0,0,1,1,LSTM (2018 reference run)
+D-16,MSL,1,0,0,1,1,LSTM (2018 reference run)
+M-7,MSL,1,0,0,1,1,LSTM (2018 reference run)
+F-8,MSL,1,0,0,1,1,LSTM (2018 reference run)
+P-1,SMAP,1,0,2,1,3,Persistence residual
+S-1,SMAP,1,0,0,2,1,Persistence residual
+E-1,SMAP,0,0,2,0,2,Persistence residual
+E-2,SMAP,0,0,1,0,1,Persistence residual
+E-3,SMAP,0,0,1,0,1,Persistence residual
+E-4,SMAP,1,0,0,1,1,Persistence residual
+E-5,SMAP,1,0,0,1,1,Persistence residual
+E-6,SMAP,1,0,0,1,1,Persistence residual
+E-7,SMAP,1,0,0,1,1,Persistence residual
+E-8,SMAP,0,0,1,0,1,Persistence residual
+E-9,SMAP,0,0,1,0,1,Persistence residual
+E-10,SMAP,0,0,2,0,2,Persistence residual
+E-11,SMAP,0,0,2,0,2,Persistence residual
+E-12,SMAP,0,0,2,0,2,Persistence residual
+E-13,SMAP,0,1,3,1,3,Persistence residual
+A-1,SMAP,1,0,0,1,1,Persistence residual
+D-1,SMAP,0,0,1,0,1,Persistence residual
+P-2,SMAP,1,0,0,1,1,Persistence residual
+P-3,SMAP,1,0,0,2,1,Persistence residual
+D-2,SMAP,0,0,1,0,1,Persistence residual
+D-3,SMAP,0,0,1,0,1,Persistence residual
+D-4,SMAP,0,0,1,0,1,Persistence residual
+A-2,SMAP,1,0,0,1,1,Persistence residual
+A-3,SMAP,1,0,0,1,1,Persistence residual
+A-4,SMAP,1,0,0,1,1,Persistence residual
+G-1,SMAP,1,0,0,1,1,Persistence residual
+G-2,SMAP,1,0,0,1,1,Persistence residual
+D-5,SMAP,1,0,0,1,1,Persistence residual
+D-6,SMAP,1,0,0,1,1,Persistence residual
+D-7,SMAP,0,0,1,0,1,Persistence residual
+F-1,SMAP,0,1,1,1,1,Persistence residual
+P-4,SMAP,2,0,1,2,3,Persistence residual
+G-3,SMAP,1,0,0,1,1,Persistence residual
+T-1,SMAP,0,0,2,0,2,Persistence residual
+T-2,SMAP,0,0,1,0,1,Persistence residual
+D-8,SMAP,1,0,0,1,1,Persistence residual
+D-9,SMAP,0,0,1,0,1,Persistence residual
+F-2,SMAP,1,1,0,2,1,Persistence residual
+G-4,SMAP,1,0,0,1,1,Persistence residual
+T-3,SMAP,2,0,0,2,2,Persistence residual
+D-11,SMAP,0,0,1,0,1,Persistence residual
+D-12,SMAP,0,0,1,0,1,Persistence residual
+B-1,SMAP,0,0,1,0,1,Persistence residual
+G-6,SMAP,0,0,1,0,1,Persistence residual
+G-7,SMAP,2,0,1,2,3,Persistence residual
+P-7,SMAP,1,0,0,2,1,Persistence residual
+R-1,SMAP,1,0,0,1,1,Persistence residual
+A-5,SMAP,1,0,0,1,1,Persistence residual
+A-6,SMAP,1,0,0,1,1,Persistence residual
+A-7,SMAP,1,0,0,1,1,Persistence residual
+D-13,SMAP,0,0,1,0,1,Persistence residual
+A-8,SMAP,0,0,1,0,1,Persistence residual
+A-9,SMAP,0,0,1,0,1,Persistence residual
+F-3,SMAP,0,0,1,0,1,Persistence residual
+M-6,MSL,1,0,0,1,1,Persistence residual
+M-1,MSL,0,0,1,0,1,Persistence residual
+M-2,MSL,0,0,1,0,1,Persistence residual
+S-2,MSL,1,0,0,1,1,Persistence residual
+P-10,MSL,0,0,1,0,1,Persistence residual
+T-4,MSL,1,0,0,1,1,Persistence residual
+T-5,MSL,1,0,0,1,1,Persistence residual
+F-7,MSL,1,1,2,2,3,Persistence residual
+M-3,MSL,0,0,1,0,1,Persistence residual
+M-4,MSL,1,1,0,2,1,Persistence residual
+M-5,MSL,0,0,1,0,1,Persistence residual
+P-15,MSL,0,0,1,0,1,Persistence residual
+C-1,MSL,1,0,1,1,2,Persistence residual
+C-2,MSL,1,0,1,1,2,Persistence residual
+T-12,MSL,0,0,1,0,1,Persistence residual
+T-13,MSL,0,0,2,0,2,Persistence residual
+F-4,MSL,0,0,1,0,1,Persistence residual
+F-5,MSL,1,0,0,1,1,Persistence residual
+D-14,MSL,0,0,2,0,2,Persistence residual
+T-9,MSL,1,0,1,1,2,Persistence residual
+P-14,MSL,0,0,1,0,1,Persistence residual
+T-8,MSL,2,0,0,2,2,Persistence residual
+P-11,MSL,1,0,1,1,2,Persistence residual
+D-15,MSL,0,0,1,0,1,Persistence residual
+D-16,MSL,1,0,0,1,1,Persistence residual
+M-7,MSL,1,0,0,1,1,Persistence residual
+F-8,MSL,0,0,1,0,1,Persistence residual
+P-1,SMAP,1,0,2,1,3,Rolling z-score
+S-1,SMAP,1,0,0,2,1,Rolling z-score
+E-1,SMAP,1,4,1,6,2,Rolling z-score
+E-2,SMAP,1,3,0,4,1,Rolling z-score
+E-3,SMAP,1,0,0,1,1,Rolling z-score
+E-4,SMAP,1,1,0,3,1,Rolling z-score
+E-5,SMAP,1,4,0,5,1,Rolling z-score
+E-6,SMAP,1,0,0,1,1,Rolling z-score
+E-7,SMAP,1,0,0,1,1,Rolling z-score
+E-8,SMAP,1,3,0,4,1,Rolling z-score
+E-9,SMAP,1,1,0,2,1,Rolling z-score
+E-10,SMAP,1,3,1,4,2,Rolling z-score
+E-11,SMAP,1,3,1,4,2,Rolling z-score
+E-12,SMAP,1,4,1,6,2,Rolling z-score
+E-13,SMAP,1,1,2,2,3,Rolling z-score
+A-1,SMAP,1,0,0,1,1,Rolling z-score
+D-1,SMAP,1,0,0,2,1,Rolling z-score
+P-2,SMAP,1,0,0,1,1,Rolling z-score
+P-3,SMAP,1,0,0,1,1,Rolling z-score
+D-2,SMAP,1,0,0,2,1,Rolling z-score
+D-3,SMAP,1,2,0,3,1,Rolling z-score
+D-4,SMAP,1,3,0,4,1,Rolling z-score
+A-2,SMAP,1,1,0,2,1,Rolling z-score
+A-3,SMAP,1,0,0,1,1,Rolling z-score
+A-4,SMAP,1,0,0,1,1,Rolling z-score
+G-1,SMAP,1,0,0,1,1,Rolling z-score
+G-2,SMAP,1,0,0,1,1,Rolling z-score
+D-5,SMAP,1,1,0,2,1,Rolling z-score
+D-6,SMAP,1,1,0,2,1,Rolling z-score
+D-7,SMAP,1,0,0,1,1,Rolling z-score
+F-1,SMAP,0,3,1,3,1,Rolling z-score
+P-4,SMAP,3,0,0,3,3,Rolling z-score
+G-3,SMAP,1,1,0,2,1,Rolling z-score
+T-1,SMAP,0,0,2,0,2,Rolling z-score
+T-2,SMAP,0,0,1,0,1,Rolling z-score
+D-8,SMAP,1,0,0,1,1,Rolling z-score
+D-9,SMAP,1,0,0,1,1,Rolling z-score
+F-2,SMAP,1,0,0,3,1,Rolling z-score
+G-4,SMAP,1,0,0,1,1,Rolling z-score
+T-3,SMAP,2,0,0,2,2,Rolling z-score
+D-11,SMAP,1,1,0,2,1,Rolling z-score
+D-12,SMAP,1,0,0,2,1,Rolling z-score
+B-1,SMAP,1,0,0,1,1,Rolling z-score
+G-6,SMAP,1,4,0,5,1,Rolling z-score
+G-7,SMAP,0,0,3,0,3,Rolling z-score
+P-7,SMAP,0,4,1,4,1,Rolling z-score
+R-1,SMAP,1,0,0,1,1,Rolling z-score
+A-5,SMAP,1,0,0,1,1,Rolling z-score
+A-6,SMAP,1,0,0,1,1,Rolling z-score
+A-7,SMAP,1,0,0,2,1,Rolling z-score
+D-13,SMAP,1,0,0,1,1,Rolling z-score
+A-8,SMAP,1,1,0,2,1,Rolling z-score
+A-9,SMAP,1,0,0,3,1,Rolling z-score
+F-3,SMAP,1,0,0,1,1,Rolling z-score
+M-6,MSL,1,0,0,1,1,Rolling z-score
+M-1,MSL,0,1,1,1,1,Rolling z-score
+M-2,MSL,1,1,0,2,1,Rolling z-score
+S-2,MSL,1,0,0,1,1,Rolling z-score
+P-10,MSL,1,0,0,1,1,Rolling z-score
+T-4,MSL,1,1,0,2,1,Rolling z-score
+T-5,MSL,1,0,0,1,1,Rolling z-score
+F-7,MSL,0,1,3,1,3,Rolling z-score
+M-3,MSL,1,2,0,3,1,Rolling z-score
+M-4,MSL,1,0,0,1,1,Rolling z-score
+M-5,MSL,0,1,1,1,1,Rolling z-score
+P-15,MSL,1,0,0,1,1,Rolling z-score
+C-1,MSL,0,0,2,0,2,Rolling z-score
+C-2,MSL,0,0,2,0,2,Rolling z-score
+T-12,MSL,0,1,1,1,1,Rolling z-score
+T-13,MSL,1,0,1,1,2,Rolling z-score
+F-4,MSL,0,0,1,0,1,Rolling z-score
+F-5,MSL,1,0,0,1,1,Rolling z-score
+D-14,MSL,2,0,0,1,2,Rolling z-score
+T-9,MSL,2,0,0,1,2,Rolling z-score
+P-14,MSL,1,0,0,1,1,Rolling z-score
+T-8,MSL,1,1,1,2,2,Rolling z-score
+P-11,MSL,1,1,1,2,2,Rolling z-score
+D-15,MSL,0,1,1,1,1,Rolling z-score
+D-16,MSL,1,0,0,1,1,Rolling z-score
+M-7,MSL,1,0,0,1,1,Rolling z-score
+F-8,MSL,1,1,0,2,1,Rolling z-score
+P-1,SMAP,0,2,3,2,3,Isolation Forest
+S-1,SMAP,1,2,0,3,1,Isolation Forest
+E-1,SMAP,1,3,1,4,2,Isolation Forest
+E-2,SMAP,1,1,0,2,1,Isolation Forest
+E-3,SMAP,1,1,0,2,1,Isolation Forest
+E-4,SMAP,1,1,0,2,1,Isolation Forest
+E-5,SMAP,0,2,1,2,1,Isolation Forest
+E-6,SMAP,0,1,1,1,1,Isolation Forest
+E-7,SMAP,1,2,0,3,1,Isolation Forest
+E-8,SMAP,1,4,0,5,1,Isolation Forest
+E-9,SMAP,1,2,0,3,1,Isolation Forest
+E-10,SMAP,1,3,1,4,2,Isolation Forest
+E-11,SMAP,1,3,1,4,2,Isolation Forest
+E-12,SMAP,0,4,2,4,2,Isolation Forest
+E-13,SMAP,0,0,3,0,3,Isolation Forest
+A-1,SMAP,0,0,1,0,1,Isolation Forest
+D-1,SMAP,1,1,0,3,1,Isolation Forest
+P-2,SMAP,1,0,0,1,1,Isolation Forest
+P-3,SMAP,1,0,0,2,1,Isolation Forest
+D-2,SMAP,0,0,1,0,1,Isolation Forest
+D-3,SMAP,0,3,1,3,1,Isolation Forest
+D-4,SMAP,0,1,1,1,1,Isolation Forest
+A-2,SMAP,1,2,0,3,1,Isolation Forest
+A-3,SMAP,1,2,0,3,1,Isolation Forest
+A-4,SMAP,1,3,0,4,1,Isolation Forest
+G-1,SMAP,1,9,0,11,1,Isolation Forest
+G-2,SMAP,0,0,1,0,1,Isolation Forest
+D-5,SMAP,1,0,0,1,1,Isolation Forest
+D-6,SMAP,1,0,0,1,1,Isolation Forest
+D-7,SMAP,0,0,1,0,1,Isolation Forest
+F-1,SMAP,0,5,1,5,1,Isolation Forest
+P-4,SMAP,0,0,3,0,3,Isolation Forest
+G-3,SMAP,1,1,0,2,1,Isolation Forest
+T-1,SMAP,1,0,1,2,2,Isolation Forest
+T-2,SMAP,1,0,0,2,1,Isolation Forest
+D-8,SMAP,0,0,1,0,1,Isolation Forest
+D-9,SMAP,0,0,1,0,1,Isolation Forest
+F-2,SMAP,1,2,0,5,1,Isolation Forest
+G-4,SMAP,0,4,1,4,1,Isolation Forest
+T-3,SMAP,0,4,2,4,2,Isolation Forest
+D-11,SMAP,1,0,0,1,1,Isolation Forest
+D-12,SMAP,0,0,1,0,1,Isolation Forest
+B-1,SMAP,0,0,1,0,1,Isolation Forest
+G-6,SMAP,0,1,1,1,1,Isolation Forest
+G-7,SMAP,2,2,1,4,3,Isolation Forest
+P-7,SMAP,1,3,0,4,1,Isolation Forest
+R-1,SMAP,0,0,1,0,1,Isolation Forest
+A-5,SMAP,1,0,0,1,1,Isolation Forest
+A-6,SMAP,1,0,0,1,1,Isolation Forest
+A-7,SMAP,1,2,0,4,1,Isolation Forest
+D-13,SMAP,0,0,1,0,1,Isolation Forest
+A-8,SMAP,1,4,0,7,1,Isolation Forest
+A-9,SMAP,1,2,0,4,1,Isolation Forest
+F-3,SMAP,1,5,0,6,1,Isolation Forest
+M-6,MSL,0,0,1,0,1,Isolation Forest
+M-1,MSL,0,0,1,0,1,Isolation Forest
+M-2,MSL,0,0,1,0,1,Isolation Forest
+S-2,MSL,0,0,1,0,1,Isolation Forest
+P-10,MSL,1,2,0,3,1,Isolation Forest
+T-4,MSL,0,1,1,1,1,Isolation Forest
+T-5,MSL,0,0,1,0,1,Isolation Forest
+F-7,MSL,2,0,1,2,3,Isolation Forest
+M-3,MSL,1,0,0,1,1,Isolation Forest
+M-4,MSL,1,0,0,1,1,Isolation Forest
+M-5,MSL,0,0,1,0,1,Isolation Forest
+P-15,MSL,0,0,1,0,1,Isolation Forest
+C-1,MSL,0,0,2,0,2,Isolation Forest
+C-2,MSL,0,0,2,0,2,Isolation Forest
+T-12,MSL,1,0,0,1,1,Isolation Forest
+T-13,MSL,1,0,1,1,2,Isolation Forest
+F-4,MSL,0,1,1,1,1,Isolation Forest
+F-5,MSL,1,0,0,1,1,Isolation Forest
+D-14,MSL,0,0,2,0,2,Isolation Forest
+T-9,MSL,0,0,2,0,2,Isolation Forest
+P-14,MSL,0,1,1,1,1,Isolation Forest
+T-8,MSL,1,0,1,1,2,Isolation Forest
+P-11,MSL,1,0,1,1,2,Isolation Forest
+D-15,MSL,0,1,1,1,1,Isolation Forest
+D-16,MSL,0,0,1,0,1,Isolation Forest
+M-7,MSL,1,0,0,1,1,Isolation Forest
+F-8,MSL,1,0,0,1,1,Isolation Forest
+P-1,SMAP,0,4,3,4,3,Matrix profile (raw)
+S-1,SMAP,1,0,0,1,1,Matrix profile (raw)
+E-1,SMAP,2,0,0,2,2,Matrix profile (raw)
+E-2,SMAP,1,2,0,3,1,Matrix profile (raw)
+E-3,SMAP,1,1,0,2,1,Matrix profile (raw)
+E-4,SMAP,1,2,0,5,1,Matrix profile (raw)
+E-5,SMAP,0,2,1,2,1,Matrix profile (raw)
+E-6,SMAP,1,2,0,3,1,Matrix profile (raw)
+E-7,SMAP,1,4,0,5,1,Matrix profile (raw)
+E-8,SMAP,1,2,0,3,1,Matrix profile (raw)
+E-9,SMAP,1,5,0,6,1,Matrix profile (raw)
+E-10,SMAP,2,0,0,2,2,Matrix profile (raw)
+E-11,SMAP,2,0,0,2,2,Matrix profile (raw)
+E-12,SMAP,1,1,1,2,2,Matrix profile (raw)
+E-13,SMAP,1,2,2,3,3,Matrix profile (raw)
+A-1,SMAP,1,0,0,1,1,Matrix profile (raw)
+D-1,SMAP,1,1,0,3,1,Matrix profile (raw)
+P-2,SMAP,1,3,0,4,1,Matrix profile (raw)
+P-3,SMAP,1,0,0,2,1,Matrix profile (raw)
+D-2,SMAP,1,0,0,1,1,Matrix profile (raw)
+D-3,SMAP,1,1,0,2,1,Matrix profile (raw)
+D-4,SMAP,1,1,0,2,1,Matrix profile (raw)
+A-2,SMAP,1,1,0,2,1,Matrix profile (raw)
+A-3,SMAP,1,2,0,3,1,Matrix profile (raw)
+A-4,SMAP,1,1,0,2,1,Matrix profile (raw)
+G-1,SMAP,1,3,0,4,1,Matrix profile (raw)
+G-2,SMAP,1,0,0,1,1,Matrix profile (raw)
+D-5,SMAP,0,1,1,1,1,Matrix profile (raw)
+D-6,SMAP,1,1,0,2,1,Matrix profile (raw)
+D-7,SMAP,1,0,0,1,1,Matrix profile (raw)
+F-1,SMAP,0,3,1,3,1,Matrix profile (raw)
+P-4,SMAP,3,0,0,3,3,Matrix profile (raw)
+G-3,SMAP,1,1,0,2,1,Matrix profile (raw)
+T-1,SMAP,1,2,1,3,2,Matrix profile (raw)
+T-2,SMAP,1,2,0,4,1,Matrix profile (raw)
+D-8,SMAP,1,0,0,1,1,Matrix profile (raw)
+D-9,SMAP,1,0,0,1,1,Matrix profile (raw)
+F-2,SMAP,1,2,0,5,1,Matrix profile (raw)
+G-4,SMAP,1,2,0,3,1,Matrix profile (raw)
+T-3,SMAP,2,1,0,3,2,Matrix profile (raw)
+D-11,SMAP,1,0,0,1,1,Matrix profile (raw)
+D-12,SMAP,1,0,0,3,1,Matrix profile (raw)
+B-1,SMAP,1,0,0,1,1,Matrix profile (raw)
+G-6,SMAP,1,2,0,3,1,Matrix profile (raw)
+G-7,SMAP,2,0,1,2,3,Matrix profile (raw)
+P-7,SMAP,1,3,0,5,1,Matrix profile (raw)
+R-1,SMAP,1,0,0,1,1,Matrix profile (raw)
+A-5,SMAP,1,0,0,1,1,Matrix profile (raw)
+A-6,SMAP,1,0,0,1,1,Matrix profile (raw)
+A-7,SMAP,1,1,0,2,1,Matrix profile (raw)
+D-13,SMAP,1,0,0,1,1,Matrix profile (raw)
+A-8,SMAP,1,2,0,9,1,Matrix profile (raw)
+A-9,SMAP,1,2,0,4,1,Matrix profile (raw)
+F-3,SMAP,1,1,0,2,1,Matrix profile (raw)
+M-6,MSL,1,0,0,1,1,Matrix profile (raw)
+M-1,MSL,0,1,1,1,1,Matrix profile (raw)
+M-2,MSL,0,0,1,0,1,Matrix profile (raw)
+S-2,MSL,1,0,0,1,1,Matrix profile (raw)
+P-10,MSL,1,2,0,3,1,Matrix profile (raw)
+T-4,MSL,0,2,1,2,1,Matrix profile (raw)
+T-5,MSL,1,0,0,1,1,Matrix profile (raw)
+F-7,MSL,2,0,1,2,3,Matrix profile (raw)
+M-3,MSL,0,0,1,0,1,Matrix profile (raw)
+M-4,MSL,1,0,0,1,1,Matrix profile (raw)
+M-5,MSL,0,1,1,1,1,Matrix profile (raw)
+P-15,MSL,0,0,1,0,1,Matrix profile (raw)
+C-1,MSL,1,0,1,1,2,Matrix profile (raw)
+C-2,MSL,1,0,1,1,2,Matrix profile (raw)
+T-12,MSL,1,0,0,1,1,Matrix profile (raw)
+T-13,MSL,0,1,2,1,2,Matrix profile (raw)
+F-4,MSL,1,1,0,2,1,Matrix profile (raw)
+F-5,MSL,1,3,0,4,1,Matrix profile (raw)
+D-14,MSL,1,0,1,1,2,Matrix profile (raw)
+T-9,MSL,0,0,2,0,2,Matrix profile (raw)
+P-14,MSL,1,3,0,4,1,Matrix profile (raw)
+T-8,MSL,0,0,2,0,2,Matrix profile (raw)
+P-11,MSL,1,0,1,1,2,Matrix profile (raw)
+D-15,MSL,0,0,1,0,1,Matrix profile (raw)
+D-16,MSL,0,0,1,0,1,Matrix profile (raw)
+M-7,MSL,1,0,0,1,1,Matrix profile (raw)
+F-8,MSL,1,0,0,1,1,Matrix profile (raw)
+P-1,SMAP,0,0,3,0,3,Matrix profile (z-norm)
+S-1,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+E-1,SMAP,2,0,0,2,2,Matrix profile (z-norm)
+E-2,SMAP,1,5,0,6,1,Matrix profile (z-norm)
+E-3,SMAP,1,2,0,5,1,Matrix profile (z-norm)
+E-4,SMAP,1,3,0,4,1,Matrix profile (z-norm)
+E-5,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+E-6,SMAP,1,4,0,5,1,Matrix profile (z-norm)
+E-7,SMAP,0,3,1,3,1,Matrix profile (z-norm)
+E-8,SMAP,1,4,0,5,1,Matrix profile (z-norm)
+E-9,SMAP,1,3,0,4,1,Matrix profile (z-norm)
+E-10,SMAP,2,0,0,2,2,Matrix profile (z-norm)
+E-11,SMAP,2,0,0,3,2,Matrix profile (z-norm)
+E-12,SMAP,2,0,0,2,2,Matrix profile (z-norm)
+E-13,SMAP,0,3,3,3,3,Matrix profile (z-norm)
+A-1,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+D-1,SMAP,1,2,0,3,1,Matrix profile (z-norm)
+P-2,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+P-3,SMAP,1,2,0,4,1,Matrix profile (z-norm)
+D-2,SMAP,1,0,0,3,1,Matrix profile (z-norm)
+D-3,SMAP,1,2,0,3,1,Matrix profile (z-norm)
+D-4,SMAP,1,3,0,4,1,Matrix profile (z-norm)
+A-2,SMAP,1,2,0,3,1,Matrix profile (z-norm)
+A-3,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+A-4,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+G-1,SMAP,1,2,0,3,1,Matrix profile (z-norm)
+G-2,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+D-5,SMAP,1,3,0,4,1,Matrix profile (z-norm)
+D-6,SMAP,1,2,0,3,1,Matrix profile (z-norm)
+D-7,SMAP,1,0,0,2,1,Matrix profile (z-norm)
+F-1,SMAP,0,0,1,0,1,Matrix profile (z-norm)
+P-4,SMAP,3,0,0,3,3,Matrix profile (z-norm)
+G-3,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+T-1,SMAP,2,0,0,2,2,Matrix profile (z-norm)
+T-2,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+D-8,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+D-9,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+F-2,SMAP,1,3,0,4,1,Matrix profile (z-norm)
+G-4,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+T-3,SMAP,2,1,0,3,2,Matrix profile (z-norm)
+D-11,SMAP,0,1,1,1,1,Matrix profile (z-norm)
+D-12,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+B-1,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+G-6,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+G-7,SMAP,2,2,1,4,3,Matrix profile (z-norm)
+P-7,SMAP,1,1,0,4,1,Matrix profile (z-norm)
+R-1,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+A-5,SMAP,0,2,1,2,1,Matrix profile (z-norm)
+A-6,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+A-7,SMAP,1,3,0,4,1,Matrix profile (z-norm)
+D-13,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+A-8,SMAP,1,0,0,3,1,Matrix profile (z-norm)
+A-9,SMAP,1,0,0,1,1,Matrix profile (z-norm)
+F-3,SMAP,1,1,0,2,1,Matrix profile (z-norm)
+M-6,MSL,0,0,1,0,1,Matrix profile (z-norm)
+M-1,MSL,1,1,0,2,1,Matrix profile (z-norm)
+M-2,MSL,0,0,1,0,1,Matrix profile (z-norm)
+S-2,MSL,1,0,0,1,1,Matrix profile (z-norm)
+P-10,MSL,0,3,1,3,1,Matrix profile (z-norm)
+T-4,MSL,0,2,1,2,1,Matrix profile (z-norm)
+T-5,MSL,1,0,0,1,1,Matrix profile (z-norm)
+F-7,MSL,1,0,2,1,3,Matrix profile (z-norm)
+M-3,MSL,0,1,1,1,1,Matrix profile (z-norm)
+M-4,MSL,0,2,1,2,1,Matrix profile (z-norm)
+M-5,MSL,1,0,0,1,1,Matrix profile (z-norm)
+P-15,MSL,0,0,1,0,1,Matrix profile (z-norm)
+C-1,MSL,1,0,1,1,2,Matrix profile (z-norm)
+C-2,MSL,0,0,2,0,2,Matrix profile (z-norm)
+T-12,MSL,1,0,0,1,1,Matrix profile (z-norm)
+T-13,MSL,1,0,1,1,2,Matrix profile (z-norm)
+F-4,MSL,0,3,1,3,1,Matrix profile (z-norm)
+F-5,MSL,0,1,1,1,1,Matrix profile (z-norm)
+D-14,MSL,2,0,0,1,2,Matrix profile (z-norm)
+T-9,MSL,0,0,2,0,2,Matrix profile (z-norm)
+P-14,MSL,0,1,1,1,1,Matrix profile (z-norm)
+T-8,MSL,0,0,2,0,2,Matrix profile (z-norm)
+P-11,MSL,1,0,1,1,2,Matrix profile (z-norm)
+D-15,MSL,0,0,1,0,1,Matrix profile (z-norm)
+D-16,MSL,0,0,1,0,1,Matrix profile (z-norm)
+M-7,MSL,1,0,0,1,1,Matrix profile (z-norm)
+F-8,MSL,0,0,1,0,1,Matrix profile (z-norm)
+P-1,SMAP,0,1,3,1,3,Random scores
+S-1,SMAP,0,1,1,1,1,Random scores
+E-1,SMAP,0,0,2,0,2,Random scores
+E-2,SMAP,0,0,1,0,1,Random scores
+E-3,SMAP,0,0,1,0,1,Random scores
+E-4,SMAP,0,0,1,0,1,Random scores
+E-5,SMAP,0,0,1,0,1,Random scores
+E-6,SMAP,0,0,1,0,1,Random scores
+E-7,SMAP,0,0,1,0,1,Random scores
+E-8,SMAP,0,0,1,0,1,Random scores
+E-9,SMAP,0,0,1,0,1,Random scores
+E-10,SMAP,0,0,2,0,2,Random scores
+E-11,SMAP,0,0,2,0,2,Random scores
+E-12,SMAP,0,2,2,2,2,Random scores
+E-13,SMAP,0,0,3,0,3,Random scores
+A-1,SMAP,0,0,1,0,1,Random scores
+D-1,SMAP,0,0,1,0,1,Random scores
+P-2,SMAP,0,0,1,0,1,Random scores
+P-3,SMAP,0,0,1,0,1,Random scores
+D-2,SMAP,1,0,0,1,1,Random scores
+D-3,SMAP,0,0,1,0,1,Random scores
+D-4,SMAP,0,0,1,0,1,Random scores
+A-2,SMAP,0,0,1,0,1,Random scores
+A-3,SMAP,0,0,1,0,1,Random scores
+A-4,SMAP,0,0,1,0,1,Random scores
+G-1,SMAP,0,0,1,0,1,Random scores
+G-2,SMAP,0,0,1,0,1,Random scores
+D-5,SMAP,0,0,1,0,1,Random scores
+D-6,SMAP,0,0,1,0,1,Random scores
+D-7,SMAP,0,0,1,0,1,Random scores
+F-1,SMAP,0,1,1,1,1,Random scores
+P-4,SMAP,0,0,3,0,3,Random scores
+G-3,SMAP,0,0,1,0,1,Random scores
+T-1,SMAP,0,0,2,0,2,Random scores
+T-2,SMAP,0,0,1,0,1,Random scores
+D-8,SMAP,0,0,1,0,1,Random scores
+D-9,SMAP,0,0,1,0,1,Random scores
+F-2,SMAP,0,0,1,0,1,Random scores
+G-4,SMAP,0,0,1,0,1,Random scores
+T-3,SMAP,0,0,2,0,2,Random scores
+D-11,SMAP,0,0,1,0,1,Random scores
+D-12,SMAP,0,0,1,0,1,Random scores
+B-1,SMAP,0,1,1,1,1,Random scores
+G-6,SMAP,0,0,1,0,1,Random scores
+G-7,SMAP,0,0,3,0,3,Random scores
+P-7,SMAP,0,0,1,0,1,Random scores
+R-1,SMAP,0,0,1,0,1,Random scores
+A-5,SMAP,0,0,1,0,1,Random scores
+A-6,SMAP,0,0,1,0,1,Random scores
+A-7,SMAP,0,0,1,0,1,Random scores
+D-13,SMAP,0,1,1,1,1,Random scores
+A-8,SMAP,0,0,1,0,1,Random scores
+A-9,SMAP,0,0,1,0,1,Random scores
+F-3,SMAP,0,0,1,0,1,Random scores
+M-6,MSL,0,0,1,0,1,Random scores
+M-1,MSL,1,1,0,2,1,Random scores
+M-2,MSL,0,0,1,0,1,Random scores
+S-2,MSL,0,0,1,0,1,Random scores
+P-10,MSL,0,0,1,0,1,Random scores
+T-4,MSL,0,0,1,0,1,Random scores
+T-5,MSL,0,0,1,0,1,Random scores
+F-7,MSL,0,0,3,0,3,Random scores
+M-3,MSL,0,0,1,0,1,Random scores
+M-4,MSL,0,1,1,1,1,Random scores
+M-5,MSL,0,0,1,0,1,Random scores
+P-15,MSL,0,0,1,0,1,Random scores
+C-1,MSL,0,0,2,0,2,Random scores
+C-2,MSL,1,0,1,1,2,Random scores
+T-12,MSL,0,0,1,0,1,Random scores
+T-13,MSL,0,2,2,2,2,Random scores
+F-4,MSL,0,0,1,0,1,Random scores
+F-5,MSL,0,0,1,0,1,Random scores
+D-14,MSL,0,0,2,0,2,Random scores
+T-9,MSL,0,0,2,0,2,Random scores
+P-14,MSL,0,0,1,0,1,Random scores
+T-8,MSL,0,0,2,0,2,Random scores
+P-11,MSL,0,0,2,0,2,Random scores
+D-15,MSL,0,0,1,0,1,Random scores
+D-16,MSL,0,0,1,0,1,Random scores
+M-7,MSL,0,0,1,0,1,Random scores
+F-8,MSL,0,0,1,0,1,Random scores
