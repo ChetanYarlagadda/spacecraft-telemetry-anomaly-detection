@@ -1,5 +1,7 @@
 # Spacecraft Telemetry Anomaly Detection (NASA SMAP & MSL)
 
+[![CI](https://github.com/ChetanYarlagadda/spacecraft-telemetry-anomaly-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/ChetanYarlagadda/spacecraft-telemetry-anomaly-detection/actions/workflows/ci.yml)
+
 **Does an LSTM forecaster with nonparametric dynamic thresholding find spacecraft telemetry anomalies better than
 simple baselines, and how much does the way detectors are scored change the answer?** This project reimplements the
 detector NASA JPL published for this job (Hundman et al., KDD 2018), checks the reimplementation against the
